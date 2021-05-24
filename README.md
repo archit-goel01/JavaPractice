@@ -1,0 +1,2 @@
+# JavaPractice
+Miscellaneous Java code.
